@@ -1,0 +1,7 @@
+[package]
+name = "handle-map"
+version = "0.1.0"
+authors = ["Thomas Schaller <torkleyy>"]
+
+[dependencies]
+fnv = "1"
